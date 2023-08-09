@@ -1,5 +1,4 @@
 ---
-license: apache-2.0
 language:
 - ko
 library_name: transformers
@@ -20,6 +19,8 @@ widget:
 ### Dataset URL : https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86
 
 ### model: hun3359/klue-bert-base-sentiment
+### parent model: klue/bert-base
+### parent model url: https://huggingface.co/klue/bert-base
 
 ![confusion_matrix](result/confusion_matirx.png)
 
@@ -31,7 +32,7 @@ bongsoo/mdistilbertV3.1을 5 epoch fine-tuning -->  acc: 0.26 (2023.08.09)
 
 klue/bert-base를 5 epoch fine-tuning --> see below results (2023.08.09)
 
-- klue-bert-base-sentiment fine tuning result 
+- klue-bert-base-sentiment fine-tuning result 
 
 ```json
 {
@@ -198,11 +199,3 @@ klue/bert-base를 5 epoch fine-tuning --> see below results (2023.08.09)
   "vocab_size": 32000
 }
 ```
-
-
-
-
-
-
-
-

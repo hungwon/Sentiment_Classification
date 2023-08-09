@@ -30,9 +30,9 @@ metrics:
 
 ** fine-tuning log ** 
 
-distilbert-base-multilingual-cased을 5 epoch fine-tuning -->  acc: 0.25 (2023.08.08)
+distilbert-base-multilingual-cased을 5 epoch fine-tuning -->  f1: 0.25 (2023.08.08)
 
-bongsoo/mdistilbertV3.1을 5 epoch fine-tuning -->  acc: 0.26 (2023.08.09)
+bongsoo/mdistilbertV3.1을 5 epoch fine-tuning -->  f1: 0.26 (2023.08.09)
 
 klue/bert-base를 5 epoch fine-tuning --> see below results (2023.08.09)
 

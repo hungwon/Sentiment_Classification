@@ -13,6 +13,7 @@ widget:
 - text: 우연히 남자친구가 헤어진 전 여자친구를 잊지 못했다는 걸 알았어.
 license: cc-by-sa-4.0
 metrics:
+- f1
 - accuracy
 ---
 

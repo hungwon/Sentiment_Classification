@@ -1,23 +1,3 @@
----
-language:
-- ko
-library_name: transformers
-pipeline_tag: text-classification
-widget:
-- text: 오늘 밥이 너무 맛있었어. 행복해
-- text: 가방에 바퀴벌레가 있었어
-- text: 가방에 강아지가 있었어
-- text: 직장에서 부당한 일을 겪어서 너무 화가 나
-- text: 퇴직금으로 적립한 펀드 수익률이 많이 올랐어.
-- text: 퇴직금으로 적립한 펀드 수익률이 많이 떨어졌어.
-- text: 퇴직금으로 적립한 펀드 수익률이 많이 내려갔어.
-- text: 우연히 남자친구가 헤어진 전 여자친구를 잊지 못했다는 걸 알았어.
-license: cc-by-sa-4.0
-metrics:
-- f1
-- accuracy
----
-
 # 한국어 감정 분류모델
 # Korean Sentiment Classification Model
 ## 60가지의 세분화된 감정분류 모델

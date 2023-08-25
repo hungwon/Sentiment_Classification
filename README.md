@@ -12,7 +12,7 @@
 ### input(Korean --> English): 가방에 바퀴벌레가 있었어 --> There was a cockroach in my bag.
 ### result: top1 : 혐오스러운 --> disgusting, top2 : 구역질 나는 --> yucky
 
-![example](result/example2.png)
+![example2](result/example2.png)
 ### input(Korean --> English): 퇴직금으로 적립한 펀드 수익률이 많이 올랐어.  --> The rate of return on the fund that I accumulated through my retirement benefits has increased significantly.
 ### result: top1 : 신이 난 --> excited, top2 : 기쁨 --> happy
 

@@ -22,6 +22,7 @@ metrics:
 # Korean Sentiment Classification Model
 ## 60가지의 세분화된 감정분류 모델
 ### Dataset: Aihub-감성대화말뭉치
+### Dataset: Aihub-Conversation_sentiment_label_corpus
 ### Dataset URL : https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86
 
 ### model: hun3359/klue-bert-base-sentiment

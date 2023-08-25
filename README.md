@@ -29,7 +29,8 @@ metrics:
 ### parent model: klue/bert-base
 ### parent model url: https://huggingface.co/klue/bert-base
 ![example](result/example1.png)
-
+### 가방에 바퀴벌레가 있었어 =  There was a cockroach in my bag.
+### 혐오스러운 = disgusting, 구역질 나는 = yucky
 ![confusion_matrix](result/confusion_matirx.png)
 
 ** fine-tuning log ** 

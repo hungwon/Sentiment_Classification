@@ -28,6 +28,7 @@ metrics:
 ### model: hun3359/klue-bert-base-sentiment
 ### parent model: klue/bert-base
 ### parent model url: https://huggingface.co/klue/bert-base
+![example](result/example1.png)
 
 ![confusion_matrix](result/confusion_matirx.png)
 
